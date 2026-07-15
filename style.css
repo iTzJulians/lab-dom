@@ -1,0 +1,40 @@
+.cajaContador {
+    background-color: rgb(71, 142, 212);
+    width: 30%;
+    height: auto;
+    margin: auto;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(23, 66, 107);
+}
+
+body {
+    background-color: rgb(22, 18, 53);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(73, 27, 35);
+}
+
+#contador {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: rgb(255, 255, 255);
+}
+
+.boton {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5% auto;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: rgb(217, 211, 117);
+    border-color: rgb(108, 100, 24);
+}
